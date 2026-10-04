@@ -1,0 +1,7 @@
+# Download the dataset from Kaggle; it isn't redistributed here
+data/*
+!data/.gitkeep
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
